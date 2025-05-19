@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body{
+    background:#edeae7bf;
+}
+
+#map {
+  height: 70vh;
+  width: 100%;
+  border-radius: 15px;
+  margin: 20px auto;
+}
+
+.container-fluid{
+    color: white;
+    padding: 8px;
+    background-color:#1b325f;
+    border-radius: 4px;
+}
+.footer {
+ background-color:#1b325f;  
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-links {
+  margin-bottom: 10px;
+
+}
+
+.footer-links a {
+  margin: 0 20px;
+  text-decoration: none;
+  color:white;
+  font-weight: bold;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-note {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
